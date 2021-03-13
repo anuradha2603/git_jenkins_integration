@@ -1,5 +1,3 @@
-Hi 
-i am present at remote.
-new line adfkjfda
+Hi
+i am present at master.
 unicorns added
-ponies added
