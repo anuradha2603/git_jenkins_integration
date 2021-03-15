@@ -1,8 +1,5 @@
 Hi
 i am present at master.
 unicorns added
-<<<<<<< HEAD
-trying rebase
-=======
 using pull reques feature
->>>>>>> refs/remotes/origin/master
+trying rebase
