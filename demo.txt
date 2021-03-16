@@ -1,12 +1,2 @@
 Hi
 unicorns added
-<<<<<<< HEAD
-<<<<<<< HEAD
-a
-b
-c
-d
-=======
->>>>>>> parent of b55888e (added a)
-=======
->>>>>>> parent of b55888e (added a)
