@@ -1,6 +1,9 @@
 Hi
 unicorns added
+<<<<<<< HEAD
 a
 b
 c
 d
+=======
+>>>>>>> parent of b55888e (added a)
